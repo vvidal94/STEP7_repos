@@ -1,0 +1,4 @@
+# script part 1
+echo "" >> Data/CG1
+echo "# Generate random crap" >> Data/CG1
+
