@@ -1,6 +1,6 @@
 Airline database
 
-As of January 2012, the OpenFlights Airlines Database contains 5888 airlines. Each entry contains the following information:
+As of January 2012, the OpenFlights Airlines Database contains 6000 airlines. Each entry contains the following information:
 Airline ID 	Unique OpenFlights identifier for this airline.
 Name 	Name of the airline.
 Alias 	Alias of the airline. For example, All Nippon Airways is commonly known as "ANA".
@@ -17,4 +17,5 @@ Sample entries
 
 324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y"
 412,"Aerolineas Argentinas",\N,"AR","ARG","ARGENTINA","Argentina","Y"
-413,"Arrowhead Airways",\N,"","ARH","ARROWHEAD","United States","N"
+
+Movies about planes: SNAKES ON A PLANE, LOST, ARROW
